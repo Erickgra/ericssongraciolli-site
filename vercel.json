@@ -1,7 +1,7 @@
 {
   "rewrites": [
-    { "source": "/te-form/:path*", "destination": "https://te-form-frontend.vercel.app/:path*" },
-    { "source": "/te-form",        "destination": "https://te-form-frontend.vercel.app/" }
+    { "source": "/nihongo/te-form/:path*", "destination": "https://te-form-frontend.vercel.app/:path*" },
+    { "source": "/nihongo/te-form",        "destination": "https://te-form-frontend.vercel.app/" }
   ],
   "headers": [
     {
